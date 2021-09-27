@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently a data scientist working at Pharmatelligence (Cardiff, UK). We provide independent real-world evidence for healthcare services and the pharmaceutical industry.
-http://www.pharmatelligence.co.uk
+
 
 I'm an R convert, and really interested in improving my machine learning, Markdown and Shiny skills. 
 
